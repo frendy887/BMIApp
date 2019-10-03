@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="weight">Berat(Kg)</string>
+    <string name="height">Tinggi(Cm)</string>
+    <string name="calculateBMI">Timbang OM</string>
+    <string name="severely_underweight">Sangat Kurang Berat Badan</string>
+    <string name="underweight">Kurang Berat Badan</string>
+    <string name="overweight">Kegemukan</string>
+    <string name="normal">Normal</string>
+    <string name="obese_class_i">Kegemukan(Obesitas)</string>
+    <string name="obese_class_ii">Kegemukan Banget Coyy</string>
+    <string name="obese_class_iii">Error</string>
+</resources>
